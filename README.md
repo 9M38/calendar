@@ -1,8 +1,21 @@
 # calendar
 
+```
+Simple calendar component
+```
+
 ## Project setup
 ```
 npm install
+```
+
+## Important
+```
+Uses i18n library 
+languages must be defined!
+check for files:
+    .env
+    .i18n.js
 ```
 
 ### Compiles and hot-reloads for development
